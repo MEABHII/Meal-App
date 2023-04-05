@@ -13,7 +13,7 @@ To use the Meal App, you can either download the source code or clone the reposi
 
 bash
 Copy code
-git clone https://github.com/<your-username>/meal-app.git
+git clone `https://github.com/MEABHII/meal-app.git`
 Usage
 To use the app, simply open the index.html file in your web browser. You will see the main interface of the app, which features a search bar. As you type, the app provides suggestions that match your search query. Click on any of these suggestions to view the recipe for that dish.
 
